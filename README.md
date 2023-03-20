@@ -8,3 +8,5 @@ One of the key benefits of this book recommendation system is its ability to lea
 Additionally, the system is designed to be easily integrated with other platforms and applications. Whether you're building a book-related app or looking to enhance the recommendation capabilities of an existing system, this GitHub repository provides the tools and resources you need to get started.
 
 Overall, this book recommendation system represents a major step forward in the field of machine learning and collaborative filtering. With its advanced algorithms and powerful recommendation engine, it offers users an unparalleled experience, providing personalized book recommendations that are both accurate and engaging.
+
+Dataset:- https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
